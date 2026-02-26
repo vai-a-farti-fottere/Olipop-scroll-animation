@@ -32,7 +32,7 @@ You will need Node.js installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vai-a-farti-fottere/Olipop-scroll-animation.git
    ```
 
 2. Navigate to the project directory:

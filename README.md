@@ -29,17 +29,23 @@ To get a local copy up and running, follow these steps:
 You will need Node.js installed on your machine.
 #### For Windows
 ##### Download and install Chocolatey:
+```bash
 powershell -c "irm https://community.chocolatey.org/install.ps1|iex"
+```
 
 ##### Download and install Node.js:
+```bash
 choco install nodejs --version="25.7.0"
-
+```
 ##### Verify the Node.js version:
+```bash
 node -v # Should print "v25.7.0".
+```
 
 ##### Verify npm version:
+```bash
 npm -v # Should print "11.10.1".
-
+```
 ### Installation
 
 1. Clone the repository:
